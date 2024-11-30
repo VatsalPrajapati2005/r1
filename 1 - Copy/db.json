@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "id": "eec8",
+      "username": "Dhwanil Prajapati",
+      "email": "pradhwanil@gmail.com",
+      "city": "Ahmedabad"
+    },
+    {
+      "id": "22d5",
+      "username": "jaimin Prajapati",
+      "email": "jaimin Prajapati",
+      "city": "Ghodasar"
+    },
+    {
+      "id": "fd95",
+      "username": "Nitin Kalak",
+      "city": "Ahmedabad",
+      "email": "nitinkalal@gmail.com"
+    }
+  ]
+}
